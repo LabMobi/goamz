@@ -6,10 +6,10 @@ import (
 	"regexp"
 	"sort"
 
-	"launchpad.net/goamz/aws"
-	"launchpad.net/goamz/ec2"
-	"launchpad.net/goamz/ec2/ec2test"
-	"launchpad.net/goamz/testutil"
+	"github.com/MobiSolutions/goamz/aws"
+	"github.com/MobiSolutions/goamz/ec2"
+	"github.com/MobiSolutions/goamz/ec2/ec2test"
+	"github.com/MobiSolutions/goamz/testutil"
 	. "launchpad.net/gocheck"
 )
 

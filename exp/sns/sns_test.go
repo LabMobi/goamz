@@ -1,9 +1,9 @@
 package sns_test
 
 import (
-	"launchpad.net/goamz/aws"
-	"launchpad.net/goamz/exp/sns"
-	"launchpad.net/goamz/testutil"
+	"github.com/MobiSolutions/goamz/aws"
+	"github.com/MobiSolutions/goamz/exp/sns"
+	"github.com/MobiSolutions/goamz/testutil"
 	. "launchpad.net/gocheck"
 	"testing"
 )

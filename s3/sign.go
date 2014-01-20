@@ -4,7 +4,7 @@ import (
 	"crypto/hmac"
 	"crypto/sha1"
 	"encoding/base64"
-	"launchpad.net/goamz/aws"
+	"github.com/MobiSolutions/goamz/aws"
 	"log"
 	"sort"
 	"strings"

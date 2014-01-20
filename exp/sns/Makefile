@@ -1,6 +1,6 @@
 include $(GOROOT)/src/Make.inc
 
-TARG=launchpad.net/goamz/sns
+TARG=github.com/MobiSolutions/goamz/sns
 
 GOFILES=\
 		sns.go\

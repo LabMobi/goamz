@@ -1,7 +1,7 @@
 package aws_test
 
 import (
-	"launchpad.net/goamz/aws"
+	"github.com/MobiSolutions/goamz/aws"
 	. "launchpad.net/gocheck"
 	"time"
 )

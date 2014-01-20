@@ -8,9 +8,9 @@ import (
 	"net/http"
 	"strings"
 
-	"launchpad.net/goamz/aws"
-	"launchpad.net/goamz/s3"
-	"launchpad.net/goamz/testutil"
+	"github.com/MobiSolutions/goamz/aws"
+	"github.com/MobiSolutions/goamz/s3"
+	"github.com/MobiSolutions/goamz/testutil"
 	. "launchpad.net/gocheck"
 	"net"
 	"sort"
