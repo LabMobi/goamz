@@ -1,3 +1,3 @@
 goamz
 =====
-Forked original bzr repository @ https://launchpad.net/goamz
+Forked from original bzr repository @ https://launchpad.net/goamz
